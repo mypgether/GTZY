@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="GTZY"
+  id="myeclipse.1411879891409"
+  context-root="/GTZY"
+  j2ee-spec="6.0"
+  archive="GTZY.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
